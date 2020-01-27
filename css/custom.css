@@ -1,0 +1,56 @@
+.masthead {
+  /* padding-top: 4.5em !important;  */
+  height: 100vh;
+  min-height: 500px;
+  background-image: url("https://source.unsplash.com/BtbjCFUvBXs/1920x1080");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+body a.nav-link {
+  margin-right: 50px;
+}
+
+img.header-image {
+  max-width: auto;
+  height: auto;
+}
+
+.header-text1 {
+  font-weight: bolder;
+  font-size: 3em;
+  /* font-family: 'Ubuntu', sans-serif; */
+  font-family: "Yanone Kaffeesatz", sans-serif;
+  font-family: "Bangers", cursive;
+}
+
+.gplaylogo {
+  max-width: 50%;
+  height: auto;
+}
+
+/* foot start */
+ul.list-unstyled,
+footer a {
+  color: white !important;
+}
+
+h5 {
+  color: whitesmoke;
+}
+/* .............................................. */
+
+
+
+/* popular city */
+.popular-cities-wrapper {
+  background-color: #cfd8dc;
+  box-shadow: 2em;
+}
+
+/* featured business card */
+.card-title {
+  color:#161c27 ;
+}
+
